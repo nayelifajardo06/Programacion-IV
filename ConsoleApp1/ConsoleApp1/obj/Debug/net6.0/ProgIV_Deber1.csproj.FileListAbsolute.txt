@@ -1,0 +1,15 @@
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgIV_Deber1.exe
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgIV_Deber1.deps.json
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgIV_Deber1.runtimeconfig.json
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgIV_Deber1.dll
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgIV_Deber1.pdb
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgIV_Deber1.csproj.AssemblyReference.cache
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgIV_Deber1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgIV_Deber1.AssemblyInfoInputs.cache
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgIV_Deber1.AssemblyInfo.cs
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgIV_Deber1.csproj.CoreCompileInputs.cache
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgIV_Deber1.dll
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ProgIV_Deber1.dll
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgIV_Deber1.pdb
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgIV_Deber1.genruntimeconfig.cache
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ProgIV_Deber1.dll

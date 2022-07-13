@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProgIV_Deber1/1.0.0": {
+        "runtime": {
+          "ProgIV_Deber1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgIV_Deber1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

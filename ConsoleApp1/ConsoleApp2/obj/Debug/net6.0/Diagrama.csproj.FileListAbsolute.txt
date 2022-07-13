@@ -1,0 +1,15 @@
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Diagrama.csproj.AssemblyReference.cache
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Diagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Diagrama.AssemblyInfoInputs.cache
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Diagrama.AssemblyInfo.cs
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Diagrama.csproj.CoreCompileInputs.cache
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Diagrama.exe
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Diagrama.deps.json
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Diagrama.runtimeconfig.json
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Diagrama.dll
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Diagrama.pdb
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Diagrama.dll
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\refint\Diagrama.dll
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Diagrama.pdb
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Diagrama.genruntimeconfig.cache
+C:\Users\Nayeli\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ref\Diagrama.dll
