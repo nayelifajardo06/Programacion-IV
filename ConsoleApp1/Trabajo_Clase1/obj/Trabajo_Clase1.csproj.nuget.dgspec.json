@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nayeli\\source\\repos\\ConsoleApp1\\Trabajo_Clase1\\Trabajo_Clase1.csproj": {}
+    "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\ConsoleApp1\\Trabajo_Clase1\\Trabajo_Clase1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nayeli\\source\\repos\\ConsoleApp1\\Trabajo_Clase1\\Trabajo_Clase1.csproj": {
+    "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\ConsoleApp1\\Trabajo_Clase1\\Trabajo_Clase1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nayeli\\source\\repos\\ConsoleApp1\\Trabajo_Clase1\\Trabajo_Clase1.csproj",
+        "projectUniqueName": "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\ConsoleApp1\\Trabajo_Clase1\\Trabajo_Clase1.csproj",
         "projectName": "Trabajo_Clase1",
-        "projectPath": "C:\\Users\\Nayeli\\source\\repos\\ConsoleApp1\\Trabajo_Clase1\\Trabajo_Clase1.csproj",
+        "projectPath": "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\ConsoleApp1\\Trabajo_Clase1\\Trabajo_Clase1.csproj",
         "packagesPath": "C:\\Users\\Nayeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nayeli\\source\\repos\\ConsoleApp1\\Trabajo_Clase1\\obj\\",
+        "outputPath": "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\ConsoleApp1\\Trabajo_Clase1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

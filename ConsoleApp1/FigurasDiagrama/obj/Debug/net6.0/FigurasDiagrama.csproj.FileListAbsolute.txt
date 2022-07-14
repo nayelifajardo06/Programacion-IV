@@ -1,0 +1,15 @@
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\bin\Debug\net6.0\FigurasDiagrama.exe
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\bin\Debug\net6.0\FigurasDiagrama.deps.json
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\bin\Debug\net6.0\FigurasDiagrama.runtimeconfig.json
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\bin\Debug\net6.0\FigurasDiagrama.dll
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\bin\Debug\net6.0\FigurasDiagrama.pdb
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\FigurasDiagrama.csproj.AssemblyReference.cache
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\FigurasDiagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\FigurasDiagrama.AssemblyInfoInputs.cache
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\FigurasDiagrama.AssemblyInfo.cs
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\FigurasDiagrama.csproj.CoreCompileInputs.cache
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\FigurasDiagrama.dll
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\refint\FigurasDiagrama.dll
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\FigurasDiagrama.pdb
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\FigurasDiagrama.genruntimeconfig.cache
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\ConsoleApp1\FigurasDiagrama\obj\Debug\net6.0\ref\FigurasDiagrama.dll

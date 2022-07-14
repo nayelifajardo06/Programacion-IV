@@ -27,13 +27,33 @@ namespace Diagrama
             listaProductos.Add(creadorC.createProduct());
             listaProductos.Add(creadorC.createProduct());
 
-
+            
             foreach (IProduct product in listaProductos)
             {
                 
                 product.doStuff();
 
             }
+
+            //CREACION DE LA LISTA CON SOMOOPERATION
+
+            Console.WriteLine("========= LISTA CON CREATOR ========");
+            List<Creator> listaCreator = new List<Creator>();
+
+            listaCreator.Add(new CreatorA());
+            listaCreator.Add(new CreatorA());
+            listaCreator.Add(new CreatorB());
+            listaCreator.Add(new CreatorB());
+            listaCreator.Add(new CreatorC());
+            listaCreator.Add(new CreatorC());
+
+            foreach (Creator creator in listaCreator)
+            {
+
+                creator.someOperation();
+
+            }
+
         }
     }
 }

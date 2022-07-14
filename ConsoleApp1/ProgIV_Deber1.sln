@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trabajo_Clase1", "Trabajo_C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabajoDocument", "TrabajoDocument\TrabajoDocument.csproj", "{FC50A2D4-DB7B-4740-907D-ED466A981937}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagrama", "ConsoleApp2\Diagrama.csproj", "{33A6EF46-4277-4615-BC8C-7C5441418526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagrama", "ConsoleApp2\Diagrama.csproj", "{33A6EF46-4277-4615-BC8C-7C5441418526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigurasDiagrama", "FigurasDiagrama\FigurasDiagrama.csproj", "{F4CF278F-2BB5-4C4B-B719-6BB22DA241B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{33A6EF46-4277-4615-BC8C-7C5441418526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33A6EF46-4277-4615-BC8C-7C5441418526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33A6EF46-4277-4615-BC8C-7C5441418526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CF278F-2BB5-4C4B-B719-6BB22DA241B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CF278F-2BB5-4C4B-B719-6BB22DA241B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CF278F-2BB5-4C4B-B719-6BB22DA241B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CF278F-2BB5-4C4B-B719-6BB22DA241B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
