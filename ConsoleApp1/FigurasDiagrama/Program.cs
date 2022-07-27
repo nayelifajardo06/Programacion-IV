@@ -13,8 +13,9 @@ namespace FigurasDiagrama
 
             FiguraCuadrado creadorC = new FiguraCuadrado();
             FiguraTriangulo creadorT = new FiguraTriangulo();
+            FiguraCirculo creadorCi = new FiguraCirculo();
 
-            Console.WriteLine("CREAR LISTA DE FIGURAS");
+            Console.WriteLine("------ CREAR LISTA DE FIGURAS ------");
 
             List<IGrafico> listaFiguras = new List<IGrafico>();
 
@@ -22,7 +23,8 @@ namespace FigurasDiagrama
             listaFiguras.Add(creadorC.createFigura());
             listaFiguras.Add(creadorT.createFigura());
             listaFiguras.Add(creadorT.createFigura());
-
+            listaFiguras.Add(creadorCi.createFigura());
+            listaFiguras.Add(creadorCi.createFigura());
 
             foreach (IGrafico figura in listaFiguras)
             {
@@ -33,13 +35,15 @@ namespace FigurasDiagrama
 
             //CREACION DE LA LISTA CON SOMOOPERATION
 
-            Console.WriteLine("========= LISTA CON DIBUJO ========");
+            Console.WriteLine("------ LISTA CON DIBUJO ------");
             List<Figura> listaDibujo = new List<Figura>();
 
             listaDibujo.Add(new FiguraCuadrado());
             listaDibujo.Add(new FiguraCuadrado());
             listaDibujo.Add(new FiguraTriangulo());
             listaDibujo.Add(new FiguraTriangulo());
+            listaDibujo.Add(new FiguraCirculo());
+            listaDibujo.Add(new FiguraCirculo());
 
             foreach (Figura dibujos in listaDibujo)
             {
