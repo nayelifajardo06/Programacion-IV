@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace Brige.Implementacion
 {
-    public class Diesel : IMotor
+    public class Gasolina : IMotor
     {
         public void InyectarCombustible(double cantidad)
-    {
+        {
             Console.WriteLine("Inyectando " + cantidad + " ml. de Diesel");
         }
-
         public void ConsumirConbustible()
         {
             RealizarAceleracion();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nayeli\\source\\repos\\Brige\\Brige\\Brige.csproj": {}
+    "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\Brige\\Brige\\Brige.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nayeli\\source\\repos\\Brige\\Brige\\Brige.csproj": {
+    "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\Brige\\Brige\\Brige.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nayeli\\source\\repos\\Brige\\Brige\\Brige.csproj",
+        "projectUniqueName": "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\Brige\\Brige\\Brige.csproj",
         "projectName": "Brige",
-        "projectPath": "C:\\Users\\Nayeli\\source\\repos\\Brige\\Brige\\Brige.csproj",
+        "projectPath": "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\Brige\\Brige\\Brige.csproj",
         "packagesPath": "C:\\Users\\Nayeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nayeli\\source\\repos\\Brige\\Brige\\obj\\",
+        "outputPath": "C:\\Users\\Nayeli\\Documents\\GitHub\\Programacion-IV\\Brige\\Brige\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

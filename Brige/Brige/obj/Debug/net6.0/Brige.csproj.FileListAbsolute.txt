@@ -1,0 +1,15 @@
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\Brige.csproj.AssemblyReference.cache
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\Brige.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\Brige.AssemblyInfoInputs.cache
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\Brige.AssemblyInfo.cs
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\Brige.csproj.CoreCompileInputs.cache
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\bin\Debug\net6.0\Brige.exe
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\bin\Debug\net6.0\Brige.deps.json
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\bin\Debug\net6.0\Brige.runtimeconfig.json
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\bin\Debug\net6.0\Brige.dll
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\bin\Debug\net6.0\Brige.pdb
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\Brige.dll
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\refint\Brige.dll
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\Brige.pdb
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\Brige.genruntimeconfig.cache
+C:\Users\Nayeli\Documents\GitHub\Programacion-IV\Brige\Brige\obj\Debug\net6.0\ref\Brige.dll

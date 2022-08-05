@@ -17,8 +17,8 @@ namespace Brige.Abstraction
             this.CapacidadMaletero = capacidadMaletero;
         }
 
-        //Implementacion del metodo abstracto
-        public override void MostraCaracteristicas()
+        //Implementacion del metodo abstracto  
+        public override void MostrarCaracteristicas()
         {
             Console.WriteLine("Vehiculo de tipo Senda cuenta con una capacidad de maletero " + CapacidadMaletero + " maletas.");
         }

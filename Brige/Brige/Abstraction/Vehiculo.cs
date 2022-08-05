@@ -19,7 +19,7 @@ namespace Brige.Abstraction
         public void Acelerar(double combustible)
         {
             motor.InyectarCombustible(combustible);
-            motor.ConsumirCombustible();
+            motor.ConsumirConbustible();
         }
 
         public void Frenar()
